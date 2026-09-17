@@ -1,6 +1,6 @@
 # VeloxGrid TV — Ultra-Lean Smart TV & Android TV Launcher
 
-[![Release](https://img.shields.io/github/v/release/mabroorahmad1/VeloxGridTV?color=blue&style=for-the-badge)](https://github.com/mabroorahmad1/VeloxGridTV/releases)
+[![Release](https://img.shields.io/github/v/release/mabroorahmad1/VeloxGridTV?color=blue&style=for-the-badge)](https://github.com/mabroorahmad1/VeloxGridTV_release/releases)
 [![Target Android](https://img.shields.io/badge/Android-9.0%2B%20(API%2028%2B)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/pie)
 [![RAM Consumption](https://img.shields.io/badge/Idle%20RAM-%3C%2050%20MB-red?style=for-the-badge)](https://github.com/mabroorahmad1/VeloxGridTV/releases)
 [![License](https://img.shields.io/badge/License-Freeware%20%2F%20Closed%20Source-lightgrey?style=for-the-badge)](#license--distribution)
